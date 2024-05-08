@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Flagster</string>
+    <string name="home_stats">Stats</string>
+    <string name="home_settings">Settings</string>
+    <string name="home_new_game">New Game</string>
+    <string name="app_title">Flagster</string>
+    <string name="option1">Nepal</string>
+    <string name="option2">India</string>
+    <string name="option3">Sri Lanka</string>
+    <string name="option4">Burundi</string>
+    <string name="highscorevalue">6913</string>
+    <string name="highscore">High Score</string>
+    <string name="scorevalue">119</string>
+    <string name="score">Score</string>
+    <string name="lives">Lives: %1$d</string>
+    <string name="settings">Settings</string>
+    <string name="haptic_feedback">Haptic Feedback</string>
+    <string name="sound">Sound</string>
+    <string name="settings_header">Settings</string>
+    <string name="instructions_text">The rules of the game are simple, you need to select the country the flag belongs to out of the options given. \n\n The faster you answer, the higher your score. \n\nSet a high score and challenge your friends.\n\nEnjoy!</string>
+    <string name="clear_high_score">Clear High Score</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear_high_score_confirmation_title">Clear High Score</string>
+    <string name="clear_high_score_confirmation_message">This is a destructive action. \n\n Are you sure you want to clear High Score?</string>
+    <string name="home_exit">Exit</string>
+    <string name="close_summary">Close</string>
+    <string name="game_summary">Game Summary</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="aboutus">About Us</string>
+</resources>

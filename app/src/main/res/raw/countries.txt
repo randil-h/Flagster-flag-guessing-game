@@ -1,0 +1,254 @@
+Andorra,flags_ad
+United Arab Emirates,flags_ae
+Afghanistan,flags_af
+Antigua and Barbuda,flags_ag
+Anguilla,flags_ai
+Albania,flags_al
+Armenia,flags_am
+Angola,flags_ao
+Antarctica,flags_aq
+Argentina,flags_ar
+American Samoa,flags_as
+Austria,flags_at
+Australia,flags_au
+Aruba,flags_aw
+Åland Islands,flags_ax
+Azerbaijan,flags_az
+Bosnia and Herzegovina,flags_ba
+Barbados,flags_bb
+Bangladesh,flags_bd
+Belgium,flags_be
+Burkina Faso,flags_bf
+Bulgaria,flags_bg
+Bahrain,flags_bh
+Burundi,flags_bi
+Benin,flags_bj
+Saint Barthélemy,flags_bl
+Bermuda,flags_bm
+Brunei,flags_bn
+Bolivia,flags_bo
+Brazil,flags_br
+Bahamas,flags_bs
+Bhutan,flags_bt
+Bouvet Island,flags_bv
+Botswana,flags_bw
+Belarus,flags_by
+Belize,flags_bz
+Canada,flags_ca
+Cocos (Keeling) Islands,flags_cc
+Democratic Republic of Congo,flags_cd
+Central African Republic,flags_cf
+Congo,flags_cg
+Switzerland,flags_ch
+Côte d'Ivoire,flags_ci
+Cook Islands,flags_ck
+Chile,flags_cl
+Cameroon,flags_cm
+China,flags_cn
+Colombia,flags_co
+Costa Rica,flags_cr
+Cuba,flags_cu
+Cabo Verde,flags_cv
+Curaçao,flags_cw
+Christmas Island,flags_cx
+Cyprus,flags_cy
+Czechia,flags_cz
+Germany,flags_de
+Djibouti,flags_dj
+Denmark,flags_dk
+Dominica,flags_dm
+Dominican Republic,flags_do
+Algeria,flags_dz
+Ecuador,flags_ec
+Estonia,flags_ee
+Egypt,flags_eg
+Western Sahara,flags_eh
+Eritrea,flags_er
+Spain,flags_es
+Ethiopia,flags_et
+European Union,flags_eu
+Finland,flags_fi
+Fiji,flags_fj
+Falkland Islands,flags_fk
+Micronesia,flags_fm
+Faroe Islands,flags_fo
+France,flags_fr
+Gabon,flags_ga
+United Kingdom,flags_gb
+England,flags_gb_eng
+Northern Ireland,flags_gb_nir
+Scotland,flags_gb_sct
+Wales,flags_gb_wls
+Grenada,flags_gd
+Georgia,flags_ge
+French Guiana,flags_gf
+Guernsey,flags_gg
+Ghana,flags_gh
+Gibraltar,flags_gi
+Greenland,flags_gl
+Gambia,flags_gm
+Guinea,flags_gn
+Guadeloupe,flags_gp
+Equatorial Guinea,flags_gq
+Greece,flags_gr
+South Georgia and the South Sandwich Islands,flags_gs
+Guatemala,flags_gt
+Guam,flags_gu
+Guinea-Bissau,flags_gw
+Guyana,flags_gy
+Hong Kong,flags_hk
+Heard Island and McDonald Islands,flags_hm
+Honduras,flags_hn
+Croatia,flags_hr
+Haiti,flags_ht
+Hungary,flags_hu
+Indonesia,flags_id
+Ireland,flags_ie
+Israel,flags_il
+Isle of Man,flags_im
+India,flags_in
+British Indian Ocean Territory,flags_io
+Iraq,flags_iq
+Iran,flags_ir
+Iceland,flags_is
+Italy,flags_it
+Jersey,flags_je
+Jamaica,flags_jm
+Jordan,flags_jo
+Japan,flags_jp
+Kenya,flags_ke
+Kyrgyzstan,flags_kg
+Cambodia,flags_kh
+Kiribati,flags_ki
+Comoros,flags_km
+Saint Kitts and Nevis,flags_kn
+North Korea,flags_kp
+South Korea,flags_kr
+Kuwait,flags_kw
+Cayman Islands,flags_ky
+Kazakhstan,flags_kz
+Lao People's Democratic Republic,flags_la
+Lebanon,flags_lb
+Saint Lucia,flags_lc
+Liechtenstein,flags_li
+Sri Lanka,flags_lk
+Liberia,flags_lr
+Lesotho,flags_ls
+Lithuania,flags_lt
+Luxembourg,flags_lu
+Latvia,flags_lv
+Libya,flags_ly
+Morocco,flags_ma
+Monaco,flags_mc
+Republic of Moldova,flags_md
+Montenegro,flags_me
+Saint Martin (French part),flags_mf
+Madagascar,flags_mg
+Marshall Islands,flags_mh
+North Macedonia,flags_mk
+Mali,flags_ml
+Myanmar,flags_mm
+Mongolia,flags_mn
+Macao,flags_mo
+Northern Mariana Islands,flags_mp
+Martinique,flags_mq
+Mauritania,flags_mr
+Montserrat,flags_ms
+Malta,flags_mt
+Mauritius,flags_mu
+Maldives,flags_mv
+Malawi,flags_mw
+Mexico,flags_mx
+Malaysia,flags_my
+Mozambique,flags_mz
+Namibia,flags_na
+New Caledonia,flags_nc
+Niger,flags_ne
+Norfolk Island,flags_nf
+Nigeria,flags_ng
+Nicaragua,flags_ni
+Netherlands,flags_nl
+Norway,flags_no
+Nepal,flags_np
+Nauru,flags_nr
+Niue,flags_nu
+New Zealand,flags_nz
+Oman,flags_om
+Panama,flags_pa
+Peru,flags_pe
+French Polynesia,flags_pf
+Papua New Guinea,flags_pg
+Philippines,flags_ph
+Pakistan,flags_pk
+Poland,flags_pl
+Saint Pierre and Miquelon,flags_pm
+Pitcairn,flags_pn
+Puerto Rico,flags_pr
+State of Palestine,flags_ps
+Portugal,flags_pt
+Palau,flags_pw
+Paraguay,flags_py
+Qatar,flags_qa
+Réunion,flags_re
+Romania,flags_ro
+Serbia,flags_rs
+Russian Federation,flags_ru
+Rwanda,flags_rw
+Saudi Arabia,flags_sa
+Solomon Islands,flags_sb
+Seychelles,flags_sc
+Sudan,flags_sd
+Sweden,flags_se
+Singapore,flags_sg
+Saint Helena, Ascension and Tristan da Cunha,flags_sh
+Slovenia,flags_si
+Svalbard and Jan Mayen,flags_sj
+Slovakia,flags_sk
+Sierra Leone,flags_sl
+San Marino,flags_sm
+Senegal,flags_sn
+Somalia,flags_so
+Suriname,flags_sr
+South Sudan,flags_ss
+Sao Tome and Principe,flags_st
+El Salvador,flags_sv
+Sint Maarten (Dutch part),flags_sx
+Syrian Arab Republic,flags_sy
+Eswatini,flags_sz
+Turks and Caicos Islands,flags_tc
+Chad,flags_td
+French Southern Territories,flags_tf
+Togo,flags_tg
+Thailand,flags_th
+Tajikistan,flags_tj
+Tokelau,flags_tk
+Timor-Leste,flags_tl
+Turkmenistan,flags_tm
+Tunisia,flags_tn
+Tonga,flags_to
+Turkey,flags_tr
+Trinidad and Tobago,flags_tt
+Tuvalu,flags_tv
+Taiwan,flags_tw
+Tanzania,flags_tz
+Ukraine,flags_ua
+Uganda,flags_ug
+United States Minor Outlying Islands,flags_um
+United States of America,flags_us
+Uruguay,flags_uy
+Uzbekistan,flags_uz
+Vatican,flags_va
+Saint Vincent and the Grenadines,flags_vc
+Venezuela,flags_ve
+British Virgin Islands,flags_vg
+US Virgin Islands,flags_vi
+Vietnam,flags_vn
+Vanuatu,flags_vu
+Wallis and Futuna,flags_wf
+Samoa,flags_ws
+Kosovo,flags_xk
+Yemen,flags_ye
+Mayotte,flags_yt
+South Africa,flags_za
+Zambia,flags_zm
+Zimbabwe,flags_zw
